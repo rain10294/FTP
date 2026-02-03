@@ -1,0 +1,7 @@
+#Sat Jan 24 15:16:13 KST 2026
+BLOOMY_FOG=0.0
+CLOUD_SHADOW_STRENGTH=0.8
+CloudLayer1_height=5000
+CloudLayer2_height=430
+TONEMAP=ToneMap_Hejl2015
+sun_illuminance=250000.0

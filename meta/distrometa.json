@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/Users/rain1/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/Nebula/workspace/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    }
+  }
+}
