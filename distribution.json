@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1944281,
             "MD5": "d841cf4350d061f67d7fecd5075b99c0",
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/net/fabricmc/fabric-loader/0.18.2/fabric-loader-0.18.2.jar"
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/net/fabricmc/fabric-loader/0.18.2/fabric-loader-0.18.2.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "5bb2a9440e93843701490cc91bfc83fa",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/versions/1.21.4-fabric-0.18.2/1.21.4-fabric-0.18.2.json"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/versions/1.21.4-fabric-0.18.2/1.21.4-fabric-0.18.2.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 701826,
                 "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "url": "https://raw.githubusercontent.com/rain10294/FTP/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                "url": "https://raw.githubusercontent.com/rain10294/FTP/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 44214294,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/Axiom-5.2.1-for-MC1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/Axiom-5.2.1-for-MC1.21.4.jar",
             "MD5": "251c6a19c996315caf586dca09f944f3"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 867333,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/bobby-5.2.6+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/bobby-5.2.6+mc1.21.4.jar",
             "MD5": "b2b5f9dcee366c326dc5643e796cc2dc"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1152857,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
             "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 249208,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/commandkeys-fabric-2.3.16+1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/commandkeys-fabric-2.3.16+1.21.4.jar",
             "MD5": "1a84c443d956cc5471c8a5f187a7a716"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 37003,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/double_hotbar-1.3.4-mc1.21.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/double_hotbar-1.3.4-mc1.21.2-fabric.jar",
             "MD5": "4feefb0b7488a1dc3158eed7e449c353"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7618852,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
             "MD5": "964103287b72e606de845420d1a8cc57"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 644183,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
             "MD5": "dbda05e27f5b2710d991196c66261df1"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514383,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 595769,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
             "MD5": "f5c52ca25f04821fd25a205fa870e1bf"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 24980150,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/ModernUI-Fabric-1.21.4-3.12.0.3-universal.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/ModernUI-Fabric-1.21.4-3.12.0.3-universal.jar",
             "MD5": "8c57f5e392d9fcc8f9800dd77612703f"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1050777,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
             "MD5": "e8884b37fe775f30a0121c4fbdfb32ac"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 76225,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/MouseTweaks-fabric-mc1.21.3-2.27.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/MouseTweaks-fabric-mc1.21.3-2.27.jar",
             "MD5": "8a1268311a2a34bd63fec02e699a5d51"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 237288,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/placeholder-api-2.5.2+1.21.3.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/placeholder-api-2.5.2+1.21.3.jar",
             "MD5": "80b2dea3d99621d2b76db30a0582665d"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -281,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 674098,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/WorldEditCUI-1.21.4+01.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/WorldEditCUI-1.21.4+01.jar",
             "MD5": "f215499b7f1163cfbab9c2dabe4f8c0d"
           }
         },
@@ -291,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1130824,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
             "MD5": "892f173cfd0619203438efcc9dcf0014"
           }
         },
@@ -301,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 874354,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/fabricmods/required/zoomify-2.15.1+1.21.5.jar",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/fabricmods/required/zoomify-2.15.1+1.21.5.jar",
             "MD5": "f35e9f403e94349b2ceafd89c0484e62"
           }
         },
@@ -311,7 +311,7 @@
           "type": "File",
           "artifact": {
             "size": 1791406,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
             "MD5": "73eac5d017a268ea8175c2025c2863ad",
             "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
           }
@@ -322,7 +322,7 @@
           "type": "File",
           "artifact": {
             "size": 175,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
             "MD5": "8476b088ddf802016c61df0c7a4b6f34",
             "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt"
           }
@@ -333,7 +333,7 @@
           "type": "File",
           "artifact": {
             "size": 1121678,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/BSL_v10.0%20(1).zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/BSL_v10.0%20(1).zip",
             "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
             "path": "shaderpacks/BSL_v10.0 (1).zip"
           }
@@ -344,7 +344,7 @@
           "type": "File",
           "artifact": {
             "size": 500699,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
             "MD5": "3f83f81df2ad4608d830017425b45bac",
             "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
           }
@@ -355,7 +355,7 @@
           "type": "File",
           "artifact": {
             "size": 395165,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/MakeUp-UltraFast-9.3e.zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/MakeUp-UltraFast-9.3e.zip",
             "MD5": "a660004324fce7804871ddf301b127f2",
             "path": "shaderpacks/MakeUp-UltraFast-9.3e.zip"
           }
@@ -366,7 +366,7 @@
           "type": "File",
           "artifact": {
             "size": 3737845,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/photon_v1.2a.zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/photon_v1.2a.zip",
             "MD5": "9189fd0de30af6ea20765a8f05380583",
             "path": "shaderpacks/photon_v1.2a.zip"
           }
@@ -377,7 +377,7 @@
           "type": "File",
           "artifact": {
             "size": 8301317,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/rethinking-voxels_r0.1-beta9.zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/rethinking-voxels_r0.1-beta9.zip",
             "MD5": "f77fadf6045e18bab72343ba75438c41",
             "path": "shaderpacks/rethinking-voxels_r0.1-beta9.zip"
           }
@@ -388,7 +388,7 @@
           "type": "File",
           "artifact": {
             "size": 235,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt",
             "MD5": "800f8b1bc04d9cfa7f8b99eab7d43822",
             "path": "shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt"
           }
@@ -399,7 +399,7 @@
           "type": "File",
           "artifact": {
             "size": 1301763,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/Solas%20Shader%20V3.1b.zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/Solas%20Shader%20V3.1b.zip",
             "MD5": "12c4864d06d6dd389768ef1a6032934b",
             "path": "shaderpacks/Solas Shader V3.1b.zip"
           }
@@ -410,7 +410,7 @@
           "type": "File",
           "artifact": {
             "size": 58,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/Solas%20Shader%20V3.1b.zip.txt",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/Solas%20Shader%20V3.1b.zip.txt",
             "MD5": "dc78f84f3c96d2538fee5d6b4cf77697",
             "path": "shaderpacks/Solas Shader V3.1b.zip.txt"
           }
@@ -421,7 +421,7 @@
           "type": "File",
           "artifact": {
             "size": 2851664,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/superDuperVanilla.zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/superDuperVanilla.zip",
             "MD5": "00b068ef8600472d52da2c10aab68cb9",
             "path": "shaderpacks/superDuperVanilla.zip"
           }
@@ -432,7 +432,7 @@
           "type": "File",
           "artifact": {
             "size": 45,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/superDuperVanilla.zip.txt",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/superDuperVanilla.zip.txt",
             "MD5": "ebe9a49672b950ff061ceb5182f10580",
             "path": "shaderpacks/superDuperVanilla.zip.txt"
           }
@@ -443,7 +443,7 @@
           "type": "File",
           "artifact": {
             "size": 3184524,
-            "url": "https://raw.githubusercontent.com/rain10294/FTP/servers/Test-1.21.4/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV93.0%C2%A7r%C2%A7l.zip",
+            "url": "https://raw.githubusercontent.com/rain10294/FTP/main/servers/Test-1.21.4/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV93.0%C2%A7r%C2%A7l.zip",
             "MD5": "021c95bd3d217b4a7e45997d5127285b",
             "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
           }
